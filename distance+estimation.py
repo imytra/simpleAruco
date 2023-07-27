@@ -1,3 +1,7 @@
+# Script stolen from https://www.instructables.com/Distance-Estimation-Using-Opencv-and-ArUco-Marker/
+# Some functions from source material are deprecated and changed here.
+# This script uses built in webcam on macbooks. 
+
 import cv2 as cv
 from cv2 import aruco
 import numpy as np
